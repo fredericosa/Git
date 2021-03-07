@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         //segunda alteração (segundo commit)
 
         //branch funcionalidade1
+
+        //branch funcionalidade 1 commit 1
     }
 }
