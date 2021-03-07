@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //primeira alteração (primeiro commit)
+
+        //segunda alteração (segundo commit)
     }
 }
